@@ -1,4 +1,4 @@
-# Medicine-Drugs-Data-Analysis
+# Drugs-Data-Analysis
 
 Project Overview
 
