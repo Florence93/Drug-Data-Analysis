@@ -8,11 +8,11 @@ Dataset Description
 
 The dataset used for the analysis consists of several key features related to different medicines. Below is an overview of the dataset columns:
 
-Name: The synthetic name of the medicine.
+medicine_name: The synthetic name of the medicine.
 
 Category: The therapeutic category of the medicine.
 
-Dosage Form: The form in which the medicine is administered (e.g., tablet, injection).
+Dosage_form: The form in which the medicine is administered (e.g., tablet, injection).
 
 Strength: The dosage strength of the medicine.
 
